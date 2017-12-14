@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internet</string>
+    <string name="inserisci_la_tua_ricerca">Inserisci la vostra ricerca</string>
+    <string name="search">Cerca</string>
+</resources>

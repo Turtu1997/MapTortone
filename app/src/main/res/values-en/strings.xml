@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internet</string>
+    <string name="inserisci_la_tua_ricerca">Insert your query</string>
+    <string name="search">Search</string>
+</resources>
